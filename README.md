@@ -8,7 +8,7 @@ Welcome to the official git of the web application Starting-Block!
 Administrator account credentials: 
 
 - Email : admin@admin.com
-- Password : Admin1234
+- Password : 
 
 ## Author
 
